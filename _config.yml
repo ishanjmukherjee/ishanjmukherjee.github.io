@@ -31,7 +31,7 @@ github_username:  ishanjmukherjee
 theme: minima
 plugins:
   - jekyll-feed
-remote_theme: mmistakes/minimal-mistakes
+# remote_theme: mmistakes/minimal-mistakes
 
 # Exclude from processing.
 # The following items will not be processed, by default.

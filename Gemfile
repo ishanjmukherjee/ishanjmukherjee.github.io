@@ -33,5 +33,5 @@ gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Claude-recommended incantations for the minimal mistakes theme
-gem "jekyll-include-cache"
-gem "jekyll-remote-theme"
+# gem "jekyll-include-cache"
+# gem "jekyll-remote-theme"
