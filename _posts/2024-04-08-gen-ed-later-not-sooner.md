@@ -5,6 +5,8 @@ permalink: /gen-ed-later-not-sooner
 date: 2024-04-08
 ---
 
+_Comments on [Substack](https://decisiontree.substack.com/p/take-gen-ed-classes-later-not-sooner)._
+
 There is an attitude among many of my friends where they want to quickly “get over with” boring general education classes — like a required course on [empirical and mathematical reasoning](https://www.benkuhn.net/gened/) or [metabolism and exercise](http://collegecatalog.uchicago.edu/thecollege/biologicalsciencescore/). One friend likened it to “eating the frog” today rather than tomorrow. This attitude is puzzling to me, because the frog will be a lot smaller tomorrow\! Gen ed classes will be less work if you take them in your final year, when you already have an offer letter in hand, so you [don’t have to care as much about what grade you get](https://mindingourway.com/half-assing-it-with-everything-youve-got/).
 
 I would recommend basically all underclassmen postpone gen ed classes for as long as they can. Wiser folks than me have said this before, so I will just echo their counsel.
