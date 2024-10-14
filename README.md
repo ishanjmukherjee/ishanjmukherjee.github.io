@@ -33,6 +33,9 @@ My workflow for transferring old posts from my [Substack](https://decisiontree.s
 - Go to Edit mode on Substack post 
 - Copy the entire post's contents 
 - Paste into a Google Doc 
+- Manually debold headings
+- Remove all images (but not captions, so that you can search for captions in pasted markdown later and insert images there).
+- Add chevrons to blockquote so that correctly formatting them in the markdown becomes a matter of `ctrl+h`ing for `\>` and replacing with the correct chevrons `>`.
 - Copy from the Google Doc _as markdown_ and paste into a markdown post in the repo.
 - Open the post locally and tweak until things look correct.
 - Publish.
