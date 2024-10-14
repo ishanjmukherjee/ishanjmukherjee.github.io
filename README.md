@@ -7,8 +7,9 @@ I created this website mainly to host my blog posts, after getting frustrated wi
 In rough order of priority:
 
 - [ ] Add tagging for posts, especially the `technical` tag.
-- [ ] Set up a workflow for creating and viewing drafts.
+- [X] Set up a workflow for creating and viewing drafts.
   - It has to be more sophisticated than just creating new posts, not committing them, and viewing them locally.
+  - Solution: keep drafts in the `_drafts` folder and view locally with `bundle exec jekyll serve --drafts`.
 - [ ] Add a now page.
 - [ ] Add a projects page.
 - [ ] Add a CV.
