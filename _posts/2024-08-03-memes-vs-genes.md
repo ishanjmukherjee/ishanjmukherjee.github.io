@@ -37,7 +37,7 @@ In carnivores, the genes for sharp teeth, front-facing eyes, and short intestine
 
 Similarly, memes may get co-adapted into big meme complexes. An example is an organized church — its architecture, rituals, music, and written traditions work well together, but individually any of them might not spread very far. Similarly, in science, a slow dribble of anomalies — none of which individually gets many citations — causes a Kuhnian [paradigm shift](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions), which packages the papers reporting the anomalies into a highly cited meme complex. Technologies which complement each other are co-adapted in this sense, too: a breakthrough in neural networks architecture is [resurrected](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=WLN3QrAAAAAJ&citation_for_view=WLN3QrAAAAAJ:u-x6o8ySG0sC) by an improvement in chip design, and [vice versa](https://venturebeat.com/business/nvidia-ceo-bets-big-on-deep-learning-and-vr/).
 
-# **Memetic engineering**
+# Memetic engineering
 
 The meme-gene analogy ends here in *The Selfish Gene*. But you can extend it to think about “memetic engineering”. That genes are not consciously designed doesn’t mean they *cannot* be consciously designed. Humans have edited the cotton genome to make it [resistant to pests](https://en.wikipedia.org/wiki/Bt_cotton), and the rice genome to [fortify it with beta-carotene](https://en.wikipedia.org/wiki/Golden_rice). By studying what distinguishes the best-spreading genes from the bad, they have designed their own [killer](https://en.wikipedia.org/wiki/Killer_application) genes. For example, gain-of-function researchers study viruses to increase their transmissivity.
 
