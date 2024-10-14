@@ -2,7 +2,7 @@
 layout: post
 title: "Can technical experts influence national AI policy? The case of Homi Bhabha and the Indian nuclear program"
 permalink: /bhabha-ai-gov
-date: 2024-10-14
+date: 2023-04-23
 hidden: true
 ---
 
