@@ -39,7 +39,7 @@ My workflow for transferring old posts from my [Substack](https://decisiontree.s
 
 ## New posts checklist
 
-[Gwern-style](https://gwern.net/about#writing-checklist), I have made a checklist for the "things look correct" step:
+[Gwern-style](https://gwern.net/about#writing-checklist), I have made a checklist for the "things look correct" step above:
 
 - Upload images to /assets/images
 - Form image captions correctly.
