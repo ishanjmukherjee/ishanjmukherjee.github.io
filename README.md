@@ -31,6 +31,7 @@ In rough order of priority:
     - "Essays" should just redirect to the homepage.
     - "Notes" should display only those posts marked as notes in the `layout` or by some other means in the front matter.
     - The distinction is that "essays" are well-formed, longish pieces, while "notes" are more off-the-cuff and may be developed into essays later.
+- [ ] Add a bookshelf/recommended media to the navbar.
     
 ## Worflow for copying old posts
 
