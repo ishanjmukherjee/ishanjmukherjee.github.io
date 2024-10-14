@@ -26,7 +26,11 @@ In rough order of priority:
 - [ ] Display subtitles in posts homepage, and in each post.
 - [ ] Add wordcount and reading time to each post.
   - [ ] Ideally, automate estimation.
-
+- [ ] Add "Essays" and "Notes" to the navbar
+    - "Essays" should just redirect to the homepage.
+    - "Notes" should display only those posts marked as notes in the `layout` or by some other means in the front matter.
+    - The distinction is that "essays" are well-formed, longish pieces, while "notes" are more off-the-cuff and may be developed into essays later.
+    
 ## Worflow for copying old posts
 
 My workflow for transferring old posts from my [Substack](https://decisiontree.substack.com/) to the blog:
