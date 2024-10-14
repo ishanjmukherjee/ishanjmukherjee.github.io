@@ -17,3 +17,4 @@ To do, in rough order of priority:
 - [ ] Add a workflow where I don't have to upload images to a subdirectory. The ideal would be `ctrl-v`ing images. 
 - [ ] Add automatic dating for posts, or at least a keyboard shortcut for entering the date on VS Code (or whatever editor).
 - [ ] Add auto-centering for images.
+  - Basically, when I paste in an image using HTML, I should not have to use the inline CSS incantations (auto margins left and right) to _center_ it. I should only have to use CSS if I want _not_ to center it.
