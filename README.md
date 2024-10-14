@@ -4,6 +4,7 @@ I created this website mainly to host my blog posts, after getting frustrated wi
 
 To do, in rough order of priority:
 
+- [ ] Add tagging for posts, especially the `technical` tag.
 - [ ] Add a now page.
 - [ ] Add a projects page.
 - [ ] Add a CV.
