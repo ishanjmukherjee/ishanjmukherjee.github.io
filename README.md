@@ -2,7 +2,9 @@
 
 I created this website mainly to host my blog posts, after getting frustrated with [Substack](https://decisiontree.substack.com/)'s lack of inline math rendering and syntax higlhighting or backtick-demarcation for code snippets/blocks. To spend as little time on this as possible, I used Jekyll and the default GitHub Pages hosting option. 
 
-To do, in rough order of priority:
+## To do
+
+In rough order of priority:
 
 - [ ] Add tagging for posts, especially the `technical` tag.
 - [ ] Set up a workflow for creating and viewing drafts.
@@ -24,6 +26,7 @@ To do, in rough order of priority:
 - [ ] Add wordcount and reading time to each post.
   - [ ] Ideally, automate estimation.
 
+## Worflow for copying old posts
 
 My workflow for transferring old posts from my [Substack](https://decisiontree.substack.com/) to the blog:
 
@@ -33,6 +36,8 @@ My workflow for transferring old posts from my [Substack](https://decisiontree.s
 - Copy from the Google Doc _as markdown_ and paste into a markdown post in the repo.
 - Open the post locally and tweak until things look correct.
 - Publish.
+
+## New posts checklist
 
 [Gwern-style](https://gwern.net/about#writing-checklist), I have made a checklist for the "things look correct" step:
 
