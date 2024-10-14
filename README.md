@@ -53,6 +53,7 @@ My workflow for transferring old posts from my [Substack](https://decisiontree.s
 - Ensure every image has alt text or a caption (ideally both, if the caption doesn't describe what the image is).
 - Form image captions correctly.
 - Ensure book covers at the top of posts such as "[Book review: The Left Hand of Darkness](https://ishanjmukherjee.github.io/left-hand-of-darkness)" are of width 210.
+- Ensure book cover alt text is "Cover of \<book\>, by \<author\>".
 - Add a "comments on Substack" with the correct link at the top of the post.
 - Edit date on filename.
 - Edit date on front matter.
