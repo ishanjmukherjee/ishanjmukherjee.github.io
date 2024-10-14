@@ -3,13 +3,11 @@ layout: post
 title: "Memes vs genes"
 permalink: /memes-vs-genes
 date: 2024-08-03
-# status: draft
-# published: false
 ---
 
 <small>Richard Dawkins' analogy runs surprisingly deep.</small>
 
-<img src="/assets/images/p-memes-vs-genes/Richard_Dawkins_2010_Global_Atheist_Convention_(4440501154).jpg" width="auto" style="margin-left:auto; margin-right:auto; display:block">
+<img src="/assets/images/Richard_Dawkins_2010_Global_Atheist_Convention_(4440501154).jpg" width="auto" style="margin-left:auto; margin-right:auto; display:block">
 
 Few popular science books launch fields of research. Richard Dawkins’ *The Selfish Gene* is one of them. The field it launched was [memetics](https://en.wikipedia.org/wiki/Memetics),[^memetics] and it is named after a word coined in the book:
 
