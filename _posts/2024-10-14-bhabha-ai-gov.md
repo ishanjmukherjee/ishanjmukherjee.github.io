@@ -3,6 +3,7 @@ layout: post
 title: "Can technical experts influence national AI policy? The case of Homi Bhabha and the Indian nuclear program"
 permalink: /bhabha-ai-gov
 date: 2024-10-14
+hidden: true
 ---
 
 **Note:** I wrote this paper as a 2022 Summer Research Affiliate at the Cambridge Existential Risks Initiative, kindly mentored by [Dr Waqar Zaidi](https://lums.edu.pk/lums_employee/3672). I presented this paper at the [Stanford Existential Risks Conference](https://seri.stanford.edu/events/stanford-existential-risks-conference-april-20-22-2023), where I was the youngest presenter and the only one who hadn’t yet started college.
