@@ -23,8 +23,7 @@ email: ishanjmukherjee@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Deep learning research at Northwestern University.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ishanjmukherjee.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+url: "https://ishanjmukherjee.github.io" # the base hostname & protocol for your site, e.g. http://example.com 
 github_username:  ishanjmukherjee
 linkedin_username: ishanjmukherjee
 
