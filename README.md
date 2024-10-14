@@ -19,4 +19,7 @@ To do, in rough order of priority:
 - [X] Add auto-centering for images.
   - Basically, when I paste in an image using HTML, I should not have to use the inline CSS incantations (auto margins left and right) to _center_ it. I should only have to use CSS if I want _not_ to center it.
 - [X] Add simple image captioning
-- [ ] Add dark mode. 
+- [ ] Add dark mode.
+- [ ] Display subtitles in posts homepage, and in each post.
+- [ ] Add wordcount and reading time to each post.
+  - [ ] Ideally, automate estimation.
