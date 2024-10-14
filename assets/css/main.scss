@@ -2,3 +2,44 @@
 ---
 
 @import "minima";
+
+.caption {
+    text-align: center;
+    font-size: 0.8em;
+}
+
+img {
+    // These center the image
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    // Claude claims that max-width: 100% makes the images responsive, and 
+    // height: auto makes them maintain their aspect ratio.
+    max-width: 100%;
+    height: auto;
+
+    // These give the option of adjusting the alignment easily.
+    // When using markdown on posts, you can use, for example:
+    // <img src="path/to/image.jpg" class="align-left" alt="Left-aligned image">
+    &.align-left {
+        margin-left: 0;
+    }
+
+    &.align-right {
+        margin-right: 0;
+    }
+}
+
+// A hacky way to caption images from here:
+// https://stackoverflow.com/a/30366422
+img + em { 
+    // A top margin adds some space between the image and the caption.
+    margin-top: 10px;
+    // Block display makes the caption text take up the full width of the 
+    // container, and text centering centers it within the container.
+    display: block;
+    text-align: center;
+    // The caption is smaller than the body text to visually distinguish it.
+    font-size: 0.8em;
+    font-style: normal; // undoes the em
+}
