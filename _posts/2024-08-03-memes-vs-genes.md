@@ -5,7 +5,7 @@ permalink: /memes-vs-genes
 date: 2024-08-03
 ---
 
-<small>Richard Dawkins' analogy runs surprisingly deep.</small>
+_Comments on [Substack](https://decisiontree.substack.com/p/memes-genes)._
 
 <img src="/assets/images/Richard_Dawkins_2010_Global_Atheist_Convention_(4440501154).jpg" width="auto" style="margin-left:auto; margin-right:auto; display:block">
 

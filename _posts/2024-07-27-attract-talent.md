@@ -5,6 +5,8 @@ permalink: /attract-talent
 date: 2024-07-23
 ---
 
+_Comments on [Substack](https://decisiontree.substack.com/p/attract-talent)._
+
 # TL;DR
 
 * Money is attractive to both the right and the wrong hire.  

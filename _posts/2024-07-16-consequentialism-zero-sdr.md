@@ -5,6 +5,8 @@ permalink: /consequentialism-zero-sdr
 date: 2024-07-16
 ---
 
+_Comments on [Substack](https://decisiontree.substack.com/p/consequentialism-implies-a-social)._
+
 A fun 1992 [paper](https://d101vc9winf8ln.cloudfront.net/documents/27957/original/Cowen___Parfit_-_Against_the_social_discount_rate.pdf?1523454279#page=10) by [Tyler Cowen](https://marginalrevolution.com/) argues that if you accept consequentialism, a social discount rate of zero comes tumbling out. In other words, a consequentialist *has* to accept that a present and a future person matter equally. This has deep implications: there could be [quadrillions of people yet to be born](https://ourworldindata.org/the-future-is-vast), and if they matter as much as present people, [the vast majority of our obligations](https://open.substack.com/pub/decisiontree/p/the-competing-infinities-of-longtermism?utm_source=post&comments=true&utm_medium=web) are to future people rather than to those alive today.
 
 This post describes the thought experiment that forms the thrust of Cowen’s paper. But first, some definitions.
