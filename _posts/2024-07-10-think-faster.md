@@ -5,6 +5,8 @@ permalink: /think-faster
 date: 2024-07-10
 ---
 
+_Comments on [Substack](https://decisiontree.substack.com/p/how-to-think-faster)._
+
 # The advice
 
 Most advice I read online doesn’t work for me. For example, Zvi Mowshowitz’s [post](https://www.lesswrong.com/posts/scwoBEju75C45W5n3/how-i-lost-100-pounds-using-tdt) on applying timeless decision theory to habit-forming seemed like a revelation, but didn’t quite stick.
