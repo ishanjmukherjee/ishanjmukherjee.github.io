@@ -57,7 +57,7 @@ So, maybe Melville’s answer to the inertia question wasn’t *exactly* as eleg
 
 # When Feynman realized he was different
 
-Feynman’s high school algebra class was taught mechanically — subtract a constant from one side, then pool the unknowns, then divide by the coefficient, etc. So, when the teacher asked the class to solve a new kind of equation, 2x \= 32, “nobody could make head or tail of it”:
+Feynman’s high school algebra class was taught mechanically — subtract a constant from one side, then pool the unknowns, then divide by the coefficient, etc. So, when the teacher asked the class to solve a new kind of equation, $2^x = 32$, “nobody could make head or tail of it”:
 
 > They didn’t have a set of rules for solving that kind of problem. But Richard didn’t need a set of rules; he saw straight away that the solution is x \= 5, because 5 twos multiplied together is 32\. This kind of thing was self-evident to Richard, and the fact that nobody else in the class felt the same way was one of the first indications he had that he really was different from the other students.
 
