@@ -21,7 +21,8 @@ In rough order of priority:
 - [ ] Add automatic dating for posts, or at least a keyboard shortcut for entering the date on VS Code (or whatever editor).
 - [X] Add auto-centering for images.
   - Basically, when I paste in an image using HTML, I should not have to use the inline CSS incantations (auto margins left and right) to _center_ it. I should only have to use CSS if I want _not_ to center it.
-- [X] Add simple image captioning
+- [X] Add easy image captioning.
+    - Solution: Directly underneath an image added using HTML `<img src="/path/to/image.png">` or markdown `![](/path/to/image.png)`, add a caption using emphasis, i.e., within `*`s. There's custom CSS to interpret the text as a caption. Currently, captions look like centered text directly underneath the image and smaller than the body text font. A downside: italicizing inside the caption using markdown is no longer possible. Maybe I should the caption marker to `**` instead, but I am 1\) unsure that will solve the problem, and 2\) reluctant to go back to *every single post* and reformat image captions.
 - [ ] Add dark mode.
 - [ ] Display subtitles in posts homepage, and in each post.
 - [ ] Add wordcount and reading time to each post.
