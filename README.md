@@ -50,6 +50,7 @@ My workflow for transferring old posts from my [Substack](https://decisiontree.s
 [Gwern-style](https://gwern.net/about#writing-checklist), I have made a checklist for the "things look correct" step above:
 
 - Upload images to /assets/images
+- Ensure every image has alt text or a caption (ideally both, if the caption doesn't describe what the image is).
 - Form image captions correctly.
 - Add a "comments on Substack" with the correct link at the top of the post.
 - Edit date on filename.
