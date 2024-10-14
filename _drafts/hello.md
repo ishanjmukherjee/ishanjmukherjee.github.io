@@ -2,7 +2,6 @@
 layout: post
 title: "Hello, world!"
 permalink: /hello
-date: 2024-10-13
 ---
 
 This is my first day using Jekyll. If Substack had $\LaTeX$ and `code` support, this day would never come.
@@ -30,3 +29,19 @@ int main() {
 ```
 
 > Some blockquoting.
+
+# Heading 1
+
+Some text.
+
+## Heading 2
+
+Some text.
+
+### Heading 3
+
+Some text.
+
+#### Heading 4
+
+Some text.
