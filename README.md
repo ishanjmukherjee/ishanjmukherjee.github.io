@@ -32,6 +32,8 @@ In rough order of priority:
     - "Notes" should display only those posts marked as notes in the `layout` or by some other means in the front matter.
     - The distinction is that "essays" are well-formed, longish pieces, while "notes" are more off-the-cuff and may be developed into essays later.
 - [ ] Add a bookshelf/recommended media to the navbar.
+- [ ] Add commenting
+  - Maybe use [David Quarel's solution](https://davidquarel.github.io/2024/08/21/Make-a-damn-website.html), i.e., [utterances](https://utteranc.es/).
     
 ## Worflow for copying old posts
 
