@@ -51,3 +51,20 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Claude-generated configurations to add a "Notes" collection
+
+collections:
+  notes:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "notes"
+    values:
+      layout: "note"
+
+header_pages:
+  - notes.md
+  - about.md
