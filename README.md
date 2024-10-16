@@ -34,6 +34,7 @@ In rough order of priority:
 - [ ] Add a bookshelf/recommended media to the navbar.
 - [ ] Add commenting
   - Maybe use [David Quarel's solution](https://davidquarel.github.io/2024/08/21/Make-a-damn-website.html), i.e., [utterances](https://utteranc.es/).
+- [ ] Add icon to tab
     
 ## Worflow for copying old posts
 
